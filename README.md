@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey, I'm 1mmutabl!
 
-<!--
-**1mmutabl/1mmutabl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in low-level programming, graphics programming and operating systems.
 
-Here are some ideas to get you started:
+### Currently working on:
+* **marx-graphics** : A lightweight 2D graphics library for Linux.
+* **marx-os** : A 32-bit operating system written from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+* C and C++
+* Operating systems
+* Computer graphics
+* Low-level software engineering
+
+### Current focus
+Building software from the ground up and learning how computers work at a deeper level.
